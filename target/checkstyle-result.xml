@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.30">
+<file name="/Users/stark/Desktop/BU/SDP/Assignments/CS665-Assignment-4/src/main/java/edu/bu/met/cs665/CustomerRepository.java">
+</file>
+<file name="/Users/stark/Desktop/BU/SDP/Assignments/CS665-Assignment-4/src/main/java/edu/bu/met/cs665/MockCustomerDataUsb.java">
+</file>
+<file name="/Users/stark/Desktop/BU/SDP/Assignments/CS665-Assignment-4/src/main/java/edu/bu/met/cs665/CustomerDataUsb.java">
+</file>
+<file name="/Users/stark/Desktop/BU/SDP/Assignments/CS665-Assignment-4/src/main/java/edu/bu/met/cs665/CustomerDataUsbAdapter.java">
+</file>
+<file name="/Users/stark/Desktop/BU/SDP/Assignments/CS665-Assignment-4/src/main/java/edu/bu/met/cs665/Customer.java">
+</file>
+<file name="/Users/stark/Desktop/BU/SDP/Assignments/CS665-Assignment-4/src/main/java/edu/bu/met/cs665/MockCustomerDataHttps.java">
+</file>
+<file name="/Users/stark/Desktop/BU/SDP/Assignments/CS665-Assignment-4/src/main/java/edu/bu/met/cs665/CustomerDataHttps.java">
+</file>
+</checkstyle>
